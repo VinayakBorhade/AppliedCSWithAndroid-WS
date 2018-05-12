@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScarnesDie</string>
+    <string name="default_editText_YourScore">Your Score: </string>
+    <string name="default_editText_ComputerScore">Computer Score: </string>
+    <string name="default_editText_YourTurnScore">Your Turn Score: </string>
+    <string name="default_editText_ComputerTurnScore">Computer Turn Score: </string>
+</resources>
